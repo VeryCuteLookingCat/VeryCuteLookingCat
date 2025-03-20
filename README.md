@@ -11,4 +11,4 @@
 # Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=VeryCuteLookingCat&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeryCuteLookingCat&layout=compact&theme=tokyonight)
