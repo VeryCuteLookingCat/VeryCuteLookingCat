@@ -24,6 +24,6 @@
 # Certifications
 
 <div style="display: flex;justify-content: space-between;">
-  <img src="https://images.credly.com/size/340x340/images/99becefb-f627-413c-8ad3-b52534e50037/image.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
+  <img src="https://images.credly.com/size/340x340/images/99becefb-f627-413c-8ad3-b52534e50037/image.png" alt="icon" width="136" style="width: 136px; height: 136px; margin-right: 0px; margin-bottom: 50px;" />
 </div>
 
