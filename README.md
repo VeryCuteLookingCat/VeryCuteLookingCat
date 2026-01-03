@@ -1,11 +1,13 @@
 # 👋 About
-I’m a self-driven security enthusiast with a strong focus on **reverse engineering, program security, and malware analysis.** Currently 17, I’ve been pushing myself far beyond traditional coursework, constantly experimenting, breaking things, and learning how to defend against real-world threats. I believe knowledge isn’t just something to hoard, I actively **teach and share** what I learn, whether through CTF writeups, side projects, or mentoring peers. 
+I’m a self-driven security enthusiast with a strong focus on reverse engineering, software security, and malware analysis. At 17, I’ve been pushing myself beyond traditional coursework, digging into how systems really work and how to protect them against real-world threats.
+
+I believe knowledge shouldn’t just be hoarded, so I actively share what I learn through CTF write-ups, side projects, and helping peers grow in cybersecurity.
 
 ## 📚 Current Studies
-- Anticheat security & Bypass prevention
-- Windows program/application hardening
+- Anti-cheat security & exploit prevention
+- Windows application hardening
 - Secure authentication systems
-- Malware reversing & analysis
+- Malware reverse-engineering & analysis
 
 ## 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -31,4 +33,6 @@ I’m a self-driven security enthusiast with a strong focus on **reverse enginee
   <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Certification 2" width="136" height="136"/>
 </div>
 
+##
+>⚠️ I strictly practice ethical security research and responsible learning.
 
