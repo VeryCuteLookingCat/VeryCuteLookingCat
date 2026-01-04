@@ -5,8 +5,9 @@ I believe knowledge shouldn’t just be hoarded, so I actively share what I lear
 
 ## 📚 Current Studies
 - Anti-cheat and integrity system security & exploit prevention
-- Windows application hardening
-- Secure authentication systems
+- Hardening Windows applications against memory inspection, API hooking, and user-mode tampering
+- Exploring attacker tradeoffs between kernel- and user-mode vectors
+- Authentication system design with protections against tampering, replay, and privilege escalation
 - Malware reverse-engineering & analysis
 
 ## 🛠️ Tech Stack
