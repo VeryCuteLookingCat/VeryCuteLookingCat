@@ -29,7 +29,6 @@ I believe knowledge shouldn’t just be hoarded, so I actively share what I lear
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://images.credly.com/size/340x340/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE – C++ Certified Entry-Level Programmer" width="136" height="136"/>
-  <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Cisco NetAcad Introduction to Packet Tracer" width="136" height="136"/>
   <img src="https://images.credly.com/size/340x340/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="Cisco NetAcad C++ Essentials 1" width="136" height="136"/>
   <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Cisco NetAcad Introduction to Packet Tracer" width="136" height="136"/>
   <img src="https://images.credly.com/size/340x340/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" alt="Pearson IT Specialist- Software Development" width="136" height="136"/>
