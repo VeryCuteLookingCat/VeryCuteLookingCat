@@ -10,6 +10,17 @@ I believe knowledge shouldn’t just be hoarded, so I actively share what I lear
 - Authentication system design with protections against tampering, replay, and privilege escalation
 - Malware reverse-engineering & analysis
 
+## 🎓 Certifications
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://images.credly.com/size/340x340/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE – C++ Certified Entry-Level Programmer" width="100" height="100"/>
+  <img src="https://images.credly.com/size/340x340/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="Cisco NetAcad C++ Essentials 1" width="100" height="100"/>
+  <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Cisco NetAcad Introduction to Packet Tracer" width="100" height="100"/>
+  <img src="https://images.credly.com/size/340x340/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" alt="Pearson IT Specialist- Software Development" width="100" height="100"/>
+  <img src="https://images.credly.com/size/340x340/images/99becefb-f627-413c-8ad3-b52534e50037/image.png" alt="Unity Associate Game Developer" width="100" height="100"/>
+  <img src="https://ky216.cap.gov/media/cms/cyberpatriot_A528E0326810D.png" alt="CyberPatriot Participation" width="100" height="100"/>
+</div>
+
 ## 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
@@ -24,17 +35,6 @@ I believe knowledge shouldn’t just be hoarded, so I actively share what I lear
 
 ![](https://github-readme-stats.vercel.app/api?username=VeryCuteLookingCat&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeryCuteLookingCat&theme=tokyonight)
-
-## 🎓 Certifications
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://images.credly.com/size/340x340/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE – C++ Certified Entry-Level Programmer" width="100" height="100"/>
-  <img src="https://images.credly.com/size/340x340/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="Cisco NetAcad C++ Essentials 1" width="100" height="100"/>
-  <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Cisco NetAcad Introduction to Packet Tracer" width="100" height="100"/>
-  <img src="https://images.credly.com/size/340x340/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" alt="Pearson IT Specialist- Software Development" width="100" height="100"/>
-  <img src="https://images.credly.com/size/340x340/images/99becefb-f627-413c-8ad3-b52534e50037/image.png" alt="Unity Associate Game Developer" width="100" height="100"/>
-  <img src="https://ky216.cap.gov/media/cms/cyberpatriot_A528E0326810D.png" alt="CyberPatriot Participation" width="100" height="100"/>
-</div>
 
 ##
 >⚠️I practice ethical security research with a focus on responsible disclosure and defensive learning.
