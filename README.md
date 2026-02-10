@@ -1,5 +1,5 @@
 # 👋 About
-I’m a self-driven security enthusiast with a strong focus on reverse engineering, software security, and malware analysis. At 17, I’ve been pushing myself beyond traditional coursework, digging into how systems really work and how to protect them against real-world threats.
+I’m a self-driven security enthusiast with a strong focus on reverse engineering, software security, and malware analysis. At 18, I’ve been pushing myself beyond traditional coursework, digging into how systems really work and how to protect them against real-world threats.
 
 I believe knowledge shouldn’t just be hoarded, so I actively share what I learn through CTF write-ups, side projects, and helping peers grow in cybersecurity.
 
