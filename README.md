@@ -11,8 +11,6 @@ I believe knowledge shouldn’t just be hoarded, so I actively share what I lear
 - Malware reverse-engineering & analysis
 
 ## 🎓 Certifications
-## 🏆 Certifications
-
 <table><tr>
   <td><img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="100" height="100"/></td>
   <td><img src="https://images.credly.com/size/340x340/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="CPE – C++ Certified Entry-Level Programmer" width="100" height="100"/></td>
